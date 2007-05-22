@@ -16,4 +16,4 @@ requires:
   Getopt::Long: 0
   MozRepl: 0.02
   Pod::Usage: 0
-version: 0.01
+version: 0.02
